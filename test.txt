@@ -2,3 +2,4 @@
 这是需要合并的分支内容
 这是mergedemo分支上需要合并的内,这是master分支上需要合并的内容
 version1
+version2
